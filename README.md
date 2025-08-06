@@ -11,6 +11,12 @@
 
 ## Installing Dependencies
 
+### Method 1 (Simple)
+
+Run the `setup.bat` file to automatically Install `cloudflared` and  python dependencies.
+
+### Method 2 (Manual)
+
 ```bash
 pip install -r requirements.txt
 ```
